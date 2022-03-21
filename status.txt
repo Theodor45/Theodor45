@@ -1,0 +1,13 @@
+I want to get a job in London either as a backend developer, fullstack or cybersecurity specialist.
+For that, i am starting out with a easy language like python, learning about syntax, OOP, more libraries like
+pandas, smtp, tkinter, turtle, etc.
+
+I'm planning to learn this:
+  - Rest API's;
+  - CSS&Html;
+  - SQL&Databases;
+  - AWS or google cloud;
+  - Networking and cybersecurity;
+  - Git&Docker;
+ 
+ And after all of these, i plan on trying javascript and React JS to see if i would like to become a full-stack dev.
